@@ -1,0 +1,68 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:cadetblue;
+    
+}
+
+.container{
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+.imagem img{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    margin-left: 100;
+}
+
+
+.input-name{
+    margin-right: 5px;
+}
+
+.name{
+    display: flex;
+    
+
+}
+
+.email{
+    display: flex;
+    margin-top: 20px;
+    
+}
+
+.Selector{
+    margin-top: 20px;
+}
+
+
+
+.end{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+
+    
+}
+
+.end-1{
+    margin-top: 10px;
+}
+
+.end-2{
+    margin-top: 10px;
+}
+
+
+
+
+
+
